@@ -24,36 +24,7 @@
     <li>Excluir uma tarefa</li>
 </ul>
 
-<h2>Configuração</h2>
-<p>Antes de usar esta API, certifique-se de ter instalado o seguinte software:</p>
-<ul>
-    <li>PHP (versão 7.4 ou superior)</li>
-    <li>Composer</li>
-    <li>Laravel (versão 8.x)</li>
-</ul>
-
-<p>Siga as etapas abaixo para configurar e executar a API:</p>
-<ol>
-    <li>Clone este repositório para o seu ambiente local.</li>
-    <li>No diretório raiz do projeto, execute o seguinte comando para instalar as dependências do Laravel:</li>
-</ol>
-<pre><code>composer install</code></pre>
-<ol start="3">
-    <li>Faça uma cópia do arquivo <code>.env.example</code> e renomeie para <code>.env</code>. Edite o arquivo <code>.env</code> e configure as informações do banco de dados, bem como outras configurações necessárias.</li>
-    <li>Gere uma nova chave de aplicativo executando o seguinte comando:</li>
-</ol>
-<pre><code>php artisan key:generate</code></pre>
-<ol start="5">
-    <li>Execute as migrações do banco de dados com o comando:</li>
-</ol>
-<pre><code>php artisan migrate</code></pre>
-<ol start="6">
-    <li>Inicie o servidor de desenvolvimento com o comando:</li>
-</ol>
-<pre><code>php artisan serve</code></pre>
-
-<p>Após seguir essas etapas, a API Laravel estará em execução no seu ambiente local e poderá ser acessada através da URL fornecida pelo servidor de desenvolvimento.</p>
 
 <h2>Contato</h2>
-<p>Se você tiver dúvidas, sugestões ou problemas relacionados a este projeto, entre em contato através do meu e-mail: danilbal
+<p>Se você tiver dúvidas, sugestões ou problemas relacionados a este projeto, entre em contato através do meu e-mail: danilbalistero@gmail.com
 

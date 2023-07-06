@@ -9,7 +9,11 @@
     <h1>Sistema de Gerenciamento de Tarefas (API)</h1>
     <p>Este repositório contém uma API desenvolvida usando o framework Laravel para um Sistema de Gerenciamento de Tarefas. A API permite a realização de operações básicas de criação, leitura, atualização e exclusão (CRUD) de tarefas.</p>
 
+   ↓  ↓ CLIQUE NA IMAGEM ↓  ↓
+
 <a href="https://youtu.be/ApHpfMoKQH8" target="_blank"><img src="https://img.youtube.com/vi/ApHpfMoKQH8/0.jpg" alt="Veja o vídeo demonstrativo"></a>
+
+   ↑	↑	CLIQUE NA IMAGEM ↑	↑	
 
 <h2>Funcionalidades</h2>
 <ul>

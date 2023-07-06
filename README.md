@@ -7,4 +7,4 @@ Link --> https://youtu.be/ApHpfMoKQH8
 
 Contato
 
-Se você tiver dúvidas, sugestões ou problemas relacionados a este projeto, entre em contato através do meu e-mail: seu-email@example.com.
+Se você tiver dúvidas, sugestões ou problemas relacionados a este projeto, entre em contato através do meu e-mail: danilbalistero@gmail.com
